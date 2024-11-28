@@ -17,7 +17,7 @@
 - **Obstacle Avoidance**: Jump over, slide under, and dodge various obstacles.
 - **Interactive Menu System**: Intuitive menu navigation for scene transitions and game options.
 - **Keyboard Shortcuts**: Easy-to-use controls for seamless gameplay.
-- **Dynamic Level Transitions**: Move between scenes, such as main menu and game levels, smoothly.
+- **Dynamic Level Transitions**: Move between scenes, smoothly.
 
 ---
 
