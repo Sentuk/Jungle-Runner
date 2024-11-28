@@ -8,7 +8,7 @@
 - [Gameplay](#gameplay)
 - [Installation](#installation)
 - [Controls](#controls)
-q
+
 ---
 
 ## Features
@@ -46,4 +46,4 @@ q
 ![image](https://github.com/user-attachments/assets/23019e59-2f68-4deb-9a39-9b54652eadc5)
 
 
-- 
+
