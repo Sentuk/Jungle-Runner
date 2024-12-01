@@ -1,6 +1,6 @@
 # Jungle Runner
 
-**Jungle Runner** is an exciting and fast-paced Unity-based endless runner game where players navigate through a dense jungle, avoiding obstacles, collecting rewards, and testing their reflexes to survive as long as possible!
+**Jungle Runner** is an exciting and fast-paced Unity-based endless runner game where players navigate through a dense jungle, avoiding obstacles, testing their reflexes to survive as long as possible!
 
 ## Table of Contents
 
